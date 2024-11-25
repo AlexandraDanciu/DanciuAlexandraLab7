@@ -1,4 +1,5 @@
-﻿namespace DanciuAlexandraLab7
+﻿
+namespace DanciuAlexandraLab7
 {
     public partial class AppShell : Shell
     {
